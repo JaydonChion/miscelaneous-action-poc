@@ -1,0 +1,243 @@
+3 dense layers
+validation accuracy for epoch 0 is 0.13333334028720856
+validation accuracy for epoch 1 is 0.28333333134651184
+validation accuracy for epoch 2 is 0.3499999940395355
+validation accuracy for epoch 3 is 0.4166666567325592
+validation accuracy for epoch 4 is 0.5333333611488342
+validation accuracy for epoch 5 is 0.550000011920929
+validation accuracy for epoch 6 is 0.5166666507720947
+validation accuracy for epoch 7 is 0.5
+validation accuracy for epoch 8 is 0.5
+validation accuracy for epoch 9 is 0.5333333611488342
+
+1 dense layer
+
+validation accuracy for epoch 0 is 0.13333334028720856
+validation accuracy for epoch 1 is 0.28333333134651184
+validation accuracy for epoch 2 is 0.3499999940395355
+validation accuracy for epoch 3 is 0.3333333432674408
+validation accuracy for epoch 4 is 0.3166666626930237
+validation accuracy for epoch 5 is 0.3166666626930237
+validation accuracy for epoch 6 is 0.36666667461395264
+validation accuracy for epoch 7 is 0.3499999940395355
+validation accuracy for epoch 8 is 0.3499999940395355
+validation accuracy for epoch 9 is 0.4000000059604645
+validation accuracy for epoch 10 is 0.4333333373069763
+validation accuracy for epoch 11 is 0.44999998807907104
+validation accuracy for epoch 12 is 0.44999998807907104
+validation accuracy for epoch 13 is 0.4833333194255829
+validation accuracy for epoch 14 is 0.5
+validation accuracy for epoch 15 is 0.5
+
+
+second try 1 dense layer
+
+validation accuracy for epoch 0 is 0.30000001192092896
+validation accuracy for epoch 1 is 0.3166666626930237
+validation accuracy for epoch 2 is 0.4333333373069763
+validation accuracy for epoch 3 is 0.4333333373069763
+validation accuracy for epoch 4 is 0.4166666567325592
+validation accuracy for epoch 5 is 0.4333333373069763
+validation accuracy for epoch 6 is 0.4333333373069763
+validation accuracy for epoch 7 is 0.4166666567325592
+validation accuracy for epoch 8 is 0.4000000059604645
+validation accuracy for epoch 9 is 0.4333333373069763
+validation accuracy for epoch 10 is 0.44999998807907104
+validation accuracy for epoch 11 is 0.44999998807907104
+validation accuracy for epoch 12 is 0.46666666865348816
+validation accuracy for epoch 13 is 0.46666666865348816
+validation accuracy for epoch 14 is 0.4833333194255829
+validation accuracy for epoch 15 is 0.5333333611488342
+validation accuracy for epoch 16 is 0.550000011920929
+validation accuracy for epoch 17 is 0.6000000238418579
+validation accuracy for epoch 18 is 0.6000000238418579
+validation accuracy for epoch 19 is 0.6333333253860474
+validation accuracy for epoch 20 is 0.6333333253860474
+validation accuracy for epoch 21 is 0.6333333253860474
+validation accuracy for epoch 22 is 0.6333333253860474
+validation accuracy for epoch 23 is 0.6333333253860474
+validation accuracy for epoch 24 is 0.6333333253860474
+validation accuracy for epoch 25 is 0.6333333253860474
+validation accuracy for epoch 26 is 0.6166666746139526
+validation accuracy for epoch 27 is 0.6166666746139526
+validation accuracy for epoch 28 is 0.6166666746139526
+validation accuracy for epoch 29 is 0.6166666746139526
+validation accuracy for epoch 30 is 0.6166666746139526
+validation accuracy for epoch 31 is 0.6166666746139526
+validation accuracy for epoch 32 is 0.6166666746139526
+validation accuracy for epoch 33 is 0.6166666746139526
+validation accuracy for epoch 34 is 0.6166666746139526
+validation accuracy for epoch 35 is 0.6166666746139526
+validation accuracy for epoch 36 is 0.6000000238418579
+validation accuracy for epoch 37 is 0.6000000238418579
+validation accuracy for epoch 38 is 0.6000000238418579
+validation accuracy for epoch 39 is 0.6000000238418579
+validation accuracy for epoch 40 is 0.6000000238418579
+validation accuracy for epoch 41 is 0.6000000238418579
+validation accuracy for epoch 42 is 0.6333333253860474
+validation accuracy for epoch 43 is 0.6499999761581421
+validation accuracy for epoch 44 is 0.6499999761581421
+validation accuracy for epoch 45 is 0.6499999761581421
+validation accuracy for epoch 46 is 0.6499999761581421
+validation accuracy for epoch 47 is 0.6499999761581421
+validation accuracy for epoch 48 is 0.6499999761581421
+validation accuracy for epoch 49 is 0.6499999761581421
+validation accuracy for epoch 50 is 0.6499999761581421
+validation accuracy for epoch 51 is 0.6499999761581421
+validation accuracy for epoch 52 is 0.6333333253860474
+validation accuracy for epoch 53 is 0.6333333253860474
+validation accuracy for epoch 54 is 0.6333333253860474
+validation accuracy for epoch 55 is 0.6333333253860474
+validation accuracy for epoch 56 is 0.6333333253860474
+validation accuracy for epoch 57 is 0.6333333253860474
+validation accuracy for epoch 58 is 0.6333333253860474
+validation accuracy for epoch 59 is 0.6499999761581421
+testing accuracy is 0.5333333611488342
+
+
+talking
+validation accuracy for epoch 0 is 0.9800000190734863
+validation accuracy for epoch 1 is 0.9800000190734863
+validation accuracy for epoch 0 is 0.9800000190734863
+validation accuracy for epoch 1 is 0.9800000190734863
+validation accuracy for epoch 2 is 0.9800000190734863
+testing accuracy is 1.0
+validation accuracy for epoch 0 is 0.7599999904632568
+validation accuracy for epoch 1 is 0.8199999928474426
+validation accuracy for epoch 2 is 0.8799999952316284
+testing accuracy is 0.8979591727256775
+validation accuracy for epoch 0 is 0.8600000143051147
+validation accuracy for epoch 1 is 0.8600000143051147
+validation accuracy for epoch 2 is 0.8600000143051147
+testing accuracy is 0.8799999952316284
+validation accuracy for epoch 0 is 0.8199999928474426
+validation accuracy for epoch 1 is 0.8399999737739563
+validation accuracy for epoch 2 is 0.8600000143051147
+validation accuracy for epoch 3 is 0.8799999952316284
+validation accuracy for epoch 4 is 0.8600000143051147
+testing accuracy is 0.8600000143051147
+validation accuracy for epoch 0 is 0.8799999952316284
+validation accuracy for epoch 1 is 0.8600000143051147
+validation accuracy for epoch 2 is 0.8600000143051147
+validation accuracy for epoch 3 is 0.8600000143051147
+validation accuracy for epoch 4 is 0.8600000143051147
+testing accuracy is 0.8199999928474426
+validation accuracy for epoch 0 is 0.8199999928474426
+validation accuracy for epoch 1 is 0.8399999737739563
+validation accuracy for epoch 2 is 0.8600000143051147
+testing accuracy is 0.8600000143051147
+testing2 accuracy is 0.5
+validation accuracy for epoch 0 is 0.8600000143051147
+validation accuracy for epoch 1 is 0.8600000143051147
+validation accuracy for epoch 2 is 0.8600000143051147
+testing accuracy is 0.7799999713897705
+testing2 accuracy is 0.4749999940395355
+validation accuracy for epoch 0 is 0.8999999761581421
+validation accuracy for epoch 1 is 0.8999999761581421
+validation accuracy for epoch 0 is 0.9200000166893005
+validation accuracy for epoch 1 is 0.8799999952316284
+validation accuracy for epoch 2 is 0.8399999737739563
+testing accuracy is 0.7599999904632568
+validation accuracy for epoch 0 is 0.8600000143051147
+validation accuracy for epoch 1 is 0.8600000143051147
+validation accuracy for epoch 2 is 0.8600000143051147
+testing accuracy is 0.800000011920929
+validation accuracy for epoch 0 is 0.8600000143051147
+validation accuracy for epoch 1 is 0.8399999737739563
+validation accuracy for epoch 2 is 0.8600000143051147
+testing accuracy is 0.8399999737739563
+validation accuracy for epoch 0 is 0.8600000143051147
+validation accuracy for epoch 1 is 0.8600000143051147
+validation accuracy for epoch 2 is 0.800000011920929
+testing accuracy is 0.800000011920929
+testing2 accuracy is 0.5
+validation accuracy for epoch 0 is 0.8600000143051147
+validation accuracy for epoch 1 is 0.8600000143051147
+validation accuracy for epoch 2 is 0.8799999952316284
+testing accuracy is 0.800000011920929
+testing2 accuracy is 0.5
+validation accuracy for epoch 0 is 0.8799999952316284
+validation accuracy for epoch 1 is 0.8600000143051147
+validation accuracy for epoch 2 is 0.8399999737739563
+testing accuracy is 0.7799999713897705
+testing2 accuracy is 0.5
+validation accuracy for epoch 0 is 0.8627451062202454
+validation accuracy for epoch 1 is 0.8823529481887817
+validation accuracy for epoch 2 is 0.9019607901573181
+testing accuracy is 0.8399999737739563
+testing2 accuracy is 0.5
+validation accuracy for epoch 0 is 0.9019607901573181
+validation accuracy for epoch 1 is 0.8823529481887817
+validation accuracy for epoch 2 is 0.8823529481887817
+testing accuracy is 0.800000011920929
+testing2 accuracy is 0.46666666865348816
+validation accuracy for epoch 0 is 0.8823529481887817
+validation accuracy for epoch 1 is 0.8823529481887817
+validation accuracy for epoch 2 is 0.9019607901573181
+validation accuracy for epoch 3 is 0.8823529481887817
+validation accuracy for epoch 4 is 0.9215686321258545
+testing accuracy is 0.8199999928474426
+testing2 accuracy is 0.5
+validation accuracy for epoch 0 is 0.8235294222831726
+validation accuracy for epoch 1 is 0.7647058963775635
+validation accuracy for epoch 2 is 0.8235294222831726
+validation accuracy for epoch 3 is 0.8627451062202454
+validation accuracy for epoch 4 is 0.843137264251709
+testing accuracy is 0.8399999737739563
+testing2 accuracy is 0.5
+validation accuracy for epoch 0 is 0.8627451062202454
+validation accuracy for epoch 1 is 0.843137264251709
+validation accuracy for epoch 2 is 0.8627451062202454
+validation accuracy for epoch 3 is 0.8627451062202454
+validation accuracy for epoch 4 is 0.843137264251709
+testing accuracy is 0.800000011920929
+testing2 accuracy is 0.5666666626930237
+validation accuracy for epoch 0 is 0.7843137383460999
+validation accuracy for epoch 1 is 0.9019607901573181
+validation accuracy for epoch 2 is 0.843137264251709
+validation accuracy for epoch 3 is 0.8627451062202454
+validation accuracy for epoch 4 is 0.8627451062202454
+validation accuracy for epoch 5 is 0.9019607901573181
+validation accuracy for epoch 6 is 0.9215686321258545
+validation accuracy for epoch 7 is 0.8627451062202454
+validation accuracy for epoch 8 is 0.8627451062202454
+validation accuracy for epoch 9 is 0.9019607901573181
+testing accuracy is 0.8399999737739563
+testing2 accuracy is 0.6333333253860474 (using second video)
+validation accuracy for epoch 0 is 0.8709677457809448
+validation accuracy for epoch 1 is 0.9032257795333862
+validation accuracy for epoch 2 is 0.9354838728904724
+validation accuracy for epoch 3 is 0.9354838728904724
+validation accuracy for epoch 4 is 0.9032257795333862
+validation accuracy for epoch 5 is 0.9354838728904724
+validation accuracy for epoch 6 is 0.9032257795333862
+validation accuracy for epoch 7 is 0.9677419066429138
+validation accuracy for epoch 8 is 0.9677419066429138
+validation accuracy for epoch 9 is 1.0
+testing accuracy is 0.8999999761581421
+testing2 accuracy is 0.6333333253860474 (using second video)
+validation accuracy for epoch 0 is 0.8709677457809448
+validation accuracy for epoch 1 is 0.9032257795333862
+validation accuracy for epoch 2 is 0.9354838728904724
+validation accuracy for epoch 3 is 0.9032257795333862
+validation accuracy for epoch 4 is 0.9677419066429138
+validation accuracy for epoch 5 is 0.9354838728904724
+validation accuracy for epoch 6 is 0.9677419066429138
+validation accuracy for epoch 7 is 0.9354838728904724
+validation accuracy for epoch 8 is 1.0
+validation accuracy for epoch 9 is 0.9032257795333862
+testing accuracy is 0.8666666746139526
+testing2 accuracy is 0.46666666865348816 (using the first video)
+validation accuracy for epoch 0 is 0.9032257795333862
+validation accuracy for epoch 1 is 0.9354838728904724
+validation accuracy for epoch 2 is 0.9354838728904724
+validation accuracy for epoch 3 is 0.8709677457809448
+validation accuracy for epoch 4 is 0.9354838728904724
+testing accuracy is 0.8999999761581421
+testing2 accuracy is 0.5
+validation accuracy for epoch 0 is 0.4000000059604645
+validation accuracy for epoch 1 is 0.4000000059604645
+validation accuracy for epoch 2 is 0.800000011920929
+validation accuracy for epoch 3 is 0.6000000238418579
+validation accuracy for epoch 4 is 0.4000000059604645
+testing accuracy is 0.25
